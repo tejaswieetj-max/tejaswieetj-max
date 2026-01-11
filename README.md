@@ -1,15 +1,15 @@
 <h1 align="center">Hey💗, I'm Tejaswi</h1>
 <h3 align="center">CSE sophomore @ VIT | Backend Devloper | Cloud</h3>
 
-- 💗 I've worked on **backend systems & data driven aiml projects**
+💗 I build **backend systems with a strong focus on data processing & system architecture**
 
-- 💗 I'm currently working on building **a Music analysis tool, a campus networking web app & a ML based market analysis project**
+💗 I'm currently working on building **backend projects that focus on networking & data analytics**
 
-- 💗 I’m currently exploring **frontend technologies, networking & cloud**
+💗 I’m currently exploring **networking & cloud development**
 
-- 💗 I learn by **building projects & documenting what I learn**
+💗 I learn by **building projects & documenting what I learn**
 
-- 💗 reach out to me at **tejaswi.ealumalai2024@vitstudent.ac.in**
+💗 reach out to me at **tejaswi.ealumalai2024@vitstudent.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
